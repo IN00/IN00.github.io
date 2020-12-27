@@ -44,4 +44,4 @@ Alexaの基本機能である、買い物リスト、TODOリストの内、TODO�
 
 
 # 問い合わせ先
-[問い合わせ先](gmailcomfreshdesk.n2a@newaccount1603276827442.freshdesk.com)
+gmailcomfreshdesk.n2a@newaccount1603276827442.freshdesk.com
